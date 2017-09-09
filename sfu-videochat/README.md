@@ -9,7 +9,7 @@
    ```
 
 2. Move to `sfu-videochat` directory
-3. Once you’ve given it a try, sign up for the free[Community Edition](https://console-webrtc-free.ecl.ntt.com/users/registration) and get an API Ke
+3. Once you've given it a try, sign up for the free [Community Edition](https://console-webrtc-free.ecl.ntt.com/users/registration) and get an API Key
 4. Run application with the API key you got in step 3
 
    ``` shell
