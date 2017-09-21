@@ -24,7 +24,6 @@ ENV SKYWAY_KEY YOUR_API_KEY
 COPY index.html /var/www/html/
 COPY jquery.js /var/www/html/
 COPY script.js /var/www/html/
-COPY skyway.js /var/www/html/
 COPY style.css /var/www/html/
 
 CMD echo "window.__SKYWAY_KEY__ = '${SKYWAY_KEY}';" > /var/www/html/key.js && \
