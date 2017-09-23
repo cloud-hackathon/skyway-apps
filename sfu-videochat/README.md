@@ -29,7 +29,7 @@
 
 
    ``` shell
-   $ export DOCKER_HOST=tcp://hack0[1-9].hiconyan.com:2375
+   $ export DOCKER_HOST=tcp://hack0[1-9].hiconyan.com:4750
    $ docker build -t sfu-videochat:[your_team_name] .
    $ docker run -it -p 808[0-9]:80 -e SKYWAY_KEY=<YOUR_API_KEY> sfu-videochat:[your_team_name]
    ```
